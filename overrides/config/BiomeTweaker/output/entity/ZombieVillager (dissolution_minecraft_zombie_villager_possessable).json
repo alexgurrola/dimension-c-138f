@@ -1,0 +1,6 @@
+
+{
+  "Name": "ZombieVillager",
+  "Registry ID": "dissolution:minecraft_zombie_villager_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityZombieVillager"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "player_body",
+  "Registry ID": "impart:player_body",
+  "Class": "com.headfishindustries.impart.entity.EntityPlayerBody"
+}

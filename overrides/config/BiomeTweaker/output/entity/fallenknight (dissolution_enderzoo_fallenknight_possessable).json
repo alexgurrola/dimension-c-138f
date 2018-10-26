@@ -1,0 +1,6 @@
+
+{
+  "Name": "fallenknight",
+  "Registry ID": "dissolution:enderzoo_fallenknight_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityFallenKnight"
+}

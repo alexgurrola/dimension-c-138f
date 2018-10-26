@@ -1,0 +1,6 @@
+
+{
+  "Name": "Husk",
+  "Registry ID": "dissolution:minecraft_husk_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityHusk"
+}

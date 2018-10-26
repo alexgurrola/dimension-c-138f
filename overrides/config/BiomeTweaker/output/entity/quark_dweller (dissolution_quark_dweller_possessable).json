@@ -1,0 +1,6 @@
+
+{
+  "Name": "quark:dweller",
+  "Registry ID": "dissolution:quark_dweller_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityDweller"
+}

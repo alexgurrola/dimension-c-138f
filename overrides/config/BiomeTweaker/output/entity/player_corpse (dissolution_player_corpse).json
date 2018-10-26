@@ -1,0 +1,6 @@
+
+{
+  "Name": "player_corpse",
+  "Registry ID": "dissolution:player_corpse",
+  "Class": "ladysnake.dissolution.common.entity.EntityPlayerShell"
+}

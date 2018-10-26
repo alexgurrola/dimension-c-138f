@@ -1,0 +1,6 @@
+
+{
+  "Name": "quark:pirate",
+  "Registry ID": "dissolution:quark_pirate_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityPirate"
+}

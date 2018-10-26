@@ -1,0 +1,6 @@
+
+{
+  "Name": "cyberzombie",
+  "Registry ID": "dissolution:cyberware_cyberzombie_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityCyberZombie"
+}

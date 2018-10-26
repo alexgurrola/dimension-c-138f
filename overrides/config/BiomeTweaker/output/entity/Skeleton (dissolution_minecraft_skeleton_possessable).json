@@ -1,0 +1,6 @@
+
+{
+  "Name": "Skeleton",
+  "Registry ID": "dissolution:minecraft_skeleton_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntitySkeleton"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "cyberskeleton",
+  "Registry ID": "dissolution:rewired_cyberskeleton_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityCyberSkeleton"
+}

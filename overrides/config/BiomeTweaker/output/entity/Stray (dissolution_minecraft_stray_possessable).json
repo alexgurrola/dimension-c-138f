@@ -1,0 +1,6 @@
+
+{
+  "Name": "Stray",
+  "Registry ID": "dissolution:minecraft_stray_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityStray"
+}

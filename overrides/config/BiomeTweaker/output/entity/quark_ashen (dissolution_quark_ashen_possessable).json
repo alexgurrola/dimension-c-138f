@@ -1,0 +1,6 @@
+
+{
+  "Name": "quark:ashen",
+  "Registry ID": "dissolution:quark_ashen_possessable",
+  "Class": "ladysnake.dissolution.common.entity.EntityPossessableImpl_EntityAshen"
+}
