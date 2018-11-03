@@ -1,6 +1,6 @@
 
 {
-  "ID": 44,
+  "ID": 45,
   "Name": "vampireForest",
   "Resource Location": "vampirism:vampireforest",
   "Class": "de.teamlapen.vampirism.biome.BiomeGenVampireForest",
@@ -22,8 +22,8 @@
   "Dictionary Types": [
     "FOREST",
     "MAGICAL",
-    "DENSE",
-    "SPOOKY"
+    "SPOOKY",
+    "DENSE"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -59,7 +59,7 @@
     },
     {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
-      "Weight": 75,
+      "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -71,7 +71,7 @@
     },
     {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityAdvancedVampire",
-      "Weight": 7,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

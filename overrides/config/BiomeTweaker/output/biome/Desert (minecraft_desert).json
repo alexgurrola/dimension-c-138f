@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "SANDY",
     "HOT",
-    "DRY",
-    "SANDY"
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -31,6 +31,24 @@
       "Weight": 4,
       "Min Group Count": 2,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.animania.common.entities.rodents.EntityHamster",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.animania.common.entities.goats.EntityDoeNigerianDwarf",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.animania.common.entities.rodents.rabbits.EntityRabbitDoeJack",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "org.cyclops.energeticsheep.entity.EntityEnergeticSheep",
@@ -101,12 +119,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlitz",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
       "Entity Class": "vazkii.quark.world.entity.EntityDweller",
       "Weight": 10,
       "Min Group Count": 1,
@@ -119,14 +131,20 @@
       "Max Group Count": 2
     },
     {
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlitz",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
-      "Weight": 75,
+      "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityAdvancedVampire",
-      "Weight": 7,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

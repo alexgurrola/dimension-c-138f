@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
+    "WASTELAND",
     "COLD",
-    "SNOWY",
-    "WASTELAND"
+    "SNOWY"
   ],
   "BiomeManager Entries": {
     "ICY Weights": [
@@ -41,6 +41,12 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.common.entities.cows.EntityCowJersey",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "org.cyclops.energeticsheep.entity.EntityEnergeticSheep",
@@ -105,18 +111,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlizz",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBasalz",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
       "Entity Class": "vazkii.quark.world.entity.EntityDweller",
       "Weight": 10,
       "Min Group Count": 1,
@@ -129,14 +123,26 @@
       "Max Group Count": 2
     },
     {
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlizz",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBasalz",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
-      "Weight": 75,
+      "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityAdvancedVampire",
-      "Weight": 7,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
